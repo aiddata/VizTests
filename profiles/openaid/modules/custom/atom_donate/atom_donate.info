@@ -1,0 +1,13 @@
+name = Atom Donate
+description = Provides a donate button and page.
+core = 7.x
+
+dependencies[] = block
+dependencies[] = atom_donate_feature
+
+; Information added by Drupal.org packaging script on 2015-03-25
+version = "7.x-2.1"
+core = "7.x"
+project = "openaid"
+datestamp = "1427325845"
+

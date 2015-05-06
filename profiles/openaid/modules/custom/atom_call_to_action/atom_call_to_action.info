@@ -1,0 +1,14 @@
+name = Atom Call to Action
+description = Adds configurable "call to action" blocks of content which can be added to any page.
+package = Atom
+core = 7.x
+
+dependencies[] = block
+dependencies[] = atom_call_to_action_feature
+
+; Information added by Drupal.org packaging script on 2015-03-25
+version = "7.x-2.1"
+core = "7.x"
+project = "openaid"
+datestamp = "1427325845"
+
