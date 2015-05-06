@@ -6,4 +6,6 @@ sites/*/files
 sites/*/private
 
 #Ignore the .Rproj file
-*.Rproj
+.Rproj.user
+.Rhistory
+.RData
